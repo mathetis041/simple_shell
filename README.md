@@ -44,4 +44,4 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-All code written by [Ajadi Marvellous](https://github.com/Optimustprime) and [Odediran Philip Oluseyi](https://github.com/Akin125).
+All code written by [Onuoha Matthew](https://github.com/mathetis041)
